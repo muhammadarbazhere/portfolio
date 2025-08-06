@@ -5,7 +5,7 @@ import { FaGithub, FaExternalLinkAlt } from "react-icons/fa";
 const projects = [
   {
     title: "Jobs & Courses Portal",
-    desc: "A full-featured MERN stack portal for posting jobs and courses with admin panel.",
+    desc: "A full-featured MERN stack web portal where users can apply for jobs or enroll in courses, while a secure admin panel allows the administrator to manage jobs and courses with full CRUD operations. Key features include JWT authentication, responsive UI with React and Tailwind CSS, file uploads, form validation, and email notifications—making it a robust and scalable platform.",
     link: "https://web-craft-arbaz.vercel.app/",
     github: "https://github.com/muhammadarbazhere/JOBS-AND-COURSES_PORTAL.git",
   },
